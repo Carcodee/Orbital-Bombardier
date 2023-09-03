@@ -6,6 +6,8 @@ Small game where it started to test a way to create procedural planets, but ende
 Here is the build to try out the game: 
 https://drive.google.com/drive/folders/1EU8pi6qWC2tSkjP4f39PxPoV-sseSbFA?usp=sharing
 
+https://www.filefactory.com/file/3l31awe2qil6/Build_Bomb_Deployer.zip
+
 ![Menu](https://github.com/Carcodee/Bomb-Deployer-Game/assets/74780908/df426a53-dc31-4aa6-8073-d57f8c3081a0)
 
 ![Game prev](https://github.com/Carcodee/Bomb-Deployer-Game/assets/74780908/50f81c9e-9ed1-40c0-986b-0145d223d1d8)
