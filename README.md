@@ -1,6 +1,8 @@
 # Bomb-Deployer-Game
 Drops bombs in the requested places! 
 
+Small game where it started to test a way to create procedural planets, but ended being a small where you can optimize your plane to drop bombs. 
+
 Here is the build to try out the game: 
 https://drive.google.com/file/d/1X5kAaGUaWLMmSLE-SybB_f7aS9-l8VD1/view?usp=sharing
 
