@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58808aa6694d05440a9794c978090758, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  health: 100
+  suppliesOnCharge: 0
+  weight: 1
+  speed: 100
+  boostSpeed: 150
+  turnForce: 1
+  heightSpeedForce: 0.2
+  boostTime: 0.01
+  boostRefreshTime: 0.01
+  cadence: 1
+  damageDone: 40
+  currentPoints: 10
