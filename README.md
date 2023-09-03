@@ -10,3 +10,4 @@ https://drive.google.com/file/d/1X5kAaGUaWLMmSLE-SybB_f7aS9-l8VD1/view?usp=shari
 
 ![Game prev](https://github.com/Carcodee/Bomb-Deployer-Game/assets/74780908/50f81c9e-9ed1-40c0-986b-0145d223d1d8)
 
+![stats menu](https://github.com/Carcodee/Bomb-Deployer-Game/assets/74780908/e13223c4-149d-4eab-91b8-867187c86ec1)
