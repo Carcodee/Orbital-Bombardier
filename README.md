@@ -1,4 +1,4 @@
-# Bomb-Deployer-Game
+# Orbital Bombardier-Game
 Drops bombs in the requested places! 
 
 Small game where it started to test a way to create procedural planets, but ended being a small where you can optimize your plane to drop bombs. 
